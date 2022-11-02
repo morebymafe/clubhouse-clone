@@ -11,7 +11,7 @@ export default function CodeConfirm() {
         </Link>
         <div className='text-center'>
             <h1 style={{ width: '100%', maxWidth: '200px', marginBottom: '1em'}}>
-                Enter the code sent to you
+                Enter the code we just texted to you
             </h1>
             <input type="text" style={
                 {

@@ -11,7 +11,7 @@ export default function AllowNotification(){
             </div>
             <div className={style.notificationContainer}>
                 <div className="p-3">
-                    <h3>Clubhouse Would Like to Send You Notifcations</h3>
+                    <h3>"Clubhouse" Would Like to Send You Notifcations</h3>
                     <p>Notifcations may include alerts, sounds, and icons badges</p>
                 </div>
                 <div className={style.action_btn}>
